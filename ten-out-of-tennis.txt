@@ -1,0 +1,46 @@
+hardware
+	raquet wth lights (differnet lights depending on hit)
+	wired in between us
+	accelerometers on raquet and ball
+dashboard with metrics 
+	messages on general areas you can improve (1) (depends on data companirson of instructor and player)
+		follow through
+		start
+		hit
+		fluidity
+	gifs on how well your hits are (0) (can do imediatle)
+	could have it text you results of workout (if you dont want to log in, could give you summary) (1) (need data first)
+	data vis (google cloud api, goldman sachs) (have to use compute or big data) (3)
+		omid al mocapvis
+	x domain name (0)
+	can worry about expo
+
+	x tracks how many calories you burned/ how much you worked out (not to important, because we are going for hardware hack)
+
+
+forehand
+backhand
+serve (with ball)
+
+lefty setup (if possible)
+
+tenOutOfTennis
+tenoutoftennis.com
+
+data collection: accelerometer x y z
+can compare to each other
+need to model in positional (unless find another)
+
+
+app:
+	if we log in, we log in with facebook
+
+analysis:
+- dynamic time warping to match similar parts (if there are similar parts)
+- compare how similar they are (may just have to preset threshold, with no ml)
+- if good, if bad
+
+- figure out how to aggregate data
+- figure out how to compare data
+
+- more info: can do like a pie chart of how many of their stroke have been which one, which one over time
